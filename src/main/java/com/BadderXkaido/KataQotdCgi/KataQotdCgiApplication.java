@@ -8,5 +8,6 @@ public class KataQotdCgiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(KataQotdCgiApplication.class, args);
+		
 	}
 }
